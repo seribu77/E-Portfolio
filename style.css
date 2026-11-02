@@ -98,7 +98,7 @@ section{
 }
 .about img{
     width: 30vw;
-    border-radius: 1%;
+    border-radius: 50%;
 }
 .info-box{
     display: flex;
